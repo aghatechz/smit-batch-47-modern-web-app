@@ -1,0 +1,12 @@
+.Parent {
+  display: flex;
+  flex-wrap: wrap-reverse;
+  border: 1px solid black;
+  width: 240px;
+  gap: 20px 20px;
+}
+
+.Parent div {
+  width: 100px;
+  border: 1px solid red;
+}
